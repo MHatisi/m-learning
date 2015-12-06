@@ -1,4 +1,4 @@
-package ase.m_learing;
+package com.example.sandra.myapplication;
 
 import org.junit.Test;
 
