@@ -19,6 +19,7 @@
             </intent-filter>
         </activity>
         <activity
+
             android:name=".ListaCategorii"
             android:label="@string/title_activity_lista_categorii"
             android:theme="@style/AppTheme.NoActionBar" />
@@ -26,6 +27,12 @@
             android:name=".ListaCursuri"
             android:label="@string/title_activity_lista_cursuri"
             android:theme="@style/AppTheme.NoActionBar"></activity>
+	</activity>
+	<activity>            
+	    android:name=".MailRecommandation"
+            android:label="@string/title_activity_mail_recommandation"
+            android:theme="@style/AppTheme.NoActionBar" >
+        </activity>
     </application>
 
 </manifest>

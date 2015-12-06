@@ -10,5 +10,17 @@
     tools:showIn="@layout/activity_homescreen" tools:context=".Homescreen">
 
     <TextView android:text="Hello World!" android:layout_width="wrap_content"
-        android:layout_height="wrap_content" />
+        android:layout_height="wrap_content"
+        android:id="@+id/textView" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Reccomand via Email"
+        android:id="@+id/btnEmail"
+        android:layout_marginTop="151dp"
+        android:layout_below="@+id/textView"
+        android:layout_toRightOf="@+id/textView"
+        android:layout_toEndOf="@+id/textView" />
+
 </RelativeLayout>

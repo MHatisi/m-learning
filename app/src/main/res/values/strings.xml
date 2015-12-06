@@ -3,4 +3,6 @@
     <string name="action_settings">Settings</string>
     <string name="title_activity_lista_categorii">ListaCategorii</string>
     <string name="title_activity_lista_cursuri">ListaCursuri</string>
+    <string name="title_activity_mail_recommandation">MailRecommandation</string>
+    <string name="btnEmail">Recommand via Email</string>
 </resources>
